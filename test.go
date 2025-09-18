@@ -4,4 +4,5 @@ func main() {
 
 	fmt.Println("Hello, World!")
 	fmt.Println("This is a test file.")
+	fmt.Println("Let's write some code.")	
 }
