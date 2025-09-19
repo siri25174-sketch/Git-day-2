@@ -2,7 +2,7 @@ Package main
 import "fmt"
 func main() {
 
-	fmt.Println("Hello, World!")
-	fmt.Println("This is a test file.")
-	fmt.Println("Let's write some code.")	
+	fmt.Println("Hello, World day 3!")
+	fmt.Println("Hello, World day 4!")
+	fmt.Println("Hello, World for merge conflict!")
 }
