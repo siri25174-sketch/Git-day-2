@@ -8,7 +8,7 @@ func main() {
 	fmt.Println("Hello, World after merge conflict!")
 
 	func add ()
-	{
+	
 		fmt.Println("Addition function")
-	}
+	
 }
